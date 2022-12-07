@@ -137,7 +137,7 @@ function App() {
 
         <Routes>
           <Route
-            path="/"
+            path="/SneakerCorner"
             element={
               <Home
                 isLoading={isLoading}

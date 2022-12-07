@@ -9,7 +9,7 @@ const Header = (props) => {
 
   return (
     <header className="d-flex p-40 justify-between align-center">
-      <Link to="/">
+      <Link to="/SneakerCorner">
         <div className="d-flex">
           <img
             width={45}
